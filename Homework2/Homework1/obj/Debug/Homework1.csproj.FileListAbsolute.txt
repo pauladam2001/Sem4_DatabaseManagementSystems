@@ -1,0 +1,10 @@
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\bin\Debug\Homework1.exe.config
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\bin\Debug\Homework1.exe
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\bin\Debug\Homework1.pdb
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\obj\Debug\Homework1.csprojAssemblyReference.cache
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\obj\Debug\Homework1.Form1.resources
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\obj\Debug\Homework1.Properties.Resources.resources
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\obj\Debug\Homework1.csproj.GenerateResource.cache
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\obj\Debug\Homework1.exe
+E:\AAFacultate\Anul 2 Semestrul 2\Database Management Systems\Labs\Homework1\Homework1\obj\Debug\Homework1.pdb
