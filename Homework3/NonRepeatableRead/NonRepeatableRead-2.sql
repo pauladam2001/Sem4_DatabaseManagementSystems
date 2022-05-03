@@ -1,0 +1,7 @@
+GO
+SET TRAN ISOLATION LEVEL READ COMMITTED
+BEGIN TRAN
+SELECT * FROM Team			-- we see the added value
+WAITFOR DELAY '00:00:06'
+SELECT * FROM Team			-- wee se the updated value
+COMMIT TRAN
